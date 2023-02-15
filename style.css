@@ -308,7 +308,7 @@ hr{
         background-size: contain;
     }
     .Home{
-        height: 17.5rem;
+        height: 17rem;
     }
     .main1 h1{
         top: 10px;
@@ -393,7 +393,7 @@ hr{
         width: 20rem;  
     }
     .pic0{
-        top: 520%;
+        top: 540%;
         width: 78%;
         height: 50%;
     }
@@ -401,21 +401,21 @@ hr{
         height: 62rem;
     }
     form{
-        top: 575%;
+        top: 595%;
         left: 120px;
         width: 50%;
     }
     .blog{
-        top: 630%;
+        top: 650%;
         left: 100px;
         font-size: 15px;
         line-height: 50px;
     }
     hr{
-        top: 670%;
+        top: 690%;
     }
     .pic p{
-        top: 671%;
+        top: 691%;
         left: 70px;
     }
 }
